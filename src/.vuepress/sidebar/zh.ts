@@ -5,6 +5,16 @@ export const zhSidebar = sidebar({
     "",
     "portfolio",
     {
+      text: "快速开始",
+      icon: "lightbulb",
+      link: "quick-start/",
+    },
+    {
+      text: "最佳实践",
+      icon: "lightbulb",
+      link: "best-practices/",
+    },
+    {
       text: "案例",
       icon: "laptop-code",
       prefix: "demo/",

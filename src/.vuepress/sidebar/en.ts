@@ -5,6 +5,16 @@ export const enSidebar = sidebar({
     "",
     "portfolio",
     {
+      text: "Quick Start",
+      icon: "lightbulb",
+      link: "quick-start/",
+    },
+    {
+      text: "Best Practices",
+      icon: "lightbulb",
+      link: "best-practices/",
+    },
+    {
       text: "Demo",
       icon: "laptop-code",
       prefix: "demo/",

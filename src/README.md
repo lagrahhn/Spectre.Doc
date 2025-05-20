@@ -17,6 +17,7 @@ actions:
 
   - text: Docs
     link: ./guide/
+  
 
 highlights:
   - header: Easy to install
